@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\Estudo\\projetos\\Nova pasta\\projetoCadastro\\projetoCadastro.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\Estudo\\projetos\\DioInovationOne\\projetoCadastro\\projetoCadastro.csproj",
       "projectName": "projetoCadastro",
-      "projectPath": "C:\\Users\\Pichau\\Desktop\\Estudo\\projetos\\Nova pasta\\projetoCadastro\\projetoCadastro.csproj",
+      "projectPath": "C:\\Users\\Pichau\\Desktop\\Estudo\\projetos\\DioInovationOne\\projetoCadastro\\projetoCadastro.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Desktop\\Estudo\\projetos\\Nova pasta\\projetoCadastro\\obj\\",
+      "outputPath": "C:\\Users\\Pichau\\Desktop\\Estudo\\projetos\\DioInovationOne\\projetoCadastro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

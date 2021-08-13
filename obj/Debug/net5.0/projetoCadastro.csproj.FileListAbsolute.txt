@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\bin\Debug\net5.0\projetoCadastro.exe
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\bin\Debug\net5.0\projetoCadastro.deps.json
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\bin\Debug\net5.0\projetoCadastro.runtimeconfig.json
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\bin\Debug\net5.0\projetoCadastro.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\bin\Debug\net5.0\projetoCadastro.dll
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\bin\Debug\net5.0\ref\projetoCadastro.dll
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\bin\Debug\net5.0\projetoCadastro.pdb
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.dll
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\ref\projetoCadastro.dll
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.pdb
+C:\Users\Pichau\Desktop\Estudo\projetos\DioInovationOne\projetoCadastro\obj\Debug\net5.0\projetoCadastro.genruntimeconfig.cache
