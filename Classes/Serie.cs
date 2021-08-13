@@ -29,6 +29,7 @@ namespace projetoCadastro
             retorno += "Título: " + this.Titulo;
             retorno += "Descrição: " + this.Descricao;
             retorno += "Ano de Início: " + this.Ano;
+            retorno += "Excluido: " + this.Excluido;
             return retorno;
         }
 
@@ -40,6 +41,11 @@ namespace projetoCadastro
         public int retornaID()
         {
             return this.Id;
+        }
+
+        public bool retornaExcluido()
+        {
+            return this.Excluido;
         }
 
         public void Excluir ()
